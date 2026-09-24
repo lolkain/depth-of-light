@@ -1,5 +1,12 @@
 # Depth of Light
 
+![three.js](https://img.shields.io/badge/three.js-r186-000000?logo=threedotjs&logoColor=white)
+![WebGL 2](https://img.shields.io/badge/WebGL-2.0-990000?logo=webgl&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-ES%203.0-5586A4?logo=opengl&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2020-F7DF1E?logo=javascript&logoColor=black)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-222222?logo=githubpages&logoColor=white)](https://lolkain.github.io/depth-of-light/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-3DA639)](LICENSE)
+
 A real-time ocean in the browser that shows how sunlight changes with depth and angle — from the beach, through the surf, down to the deep sea.
 
 **▶ Live:** https://lolkain.github.io/depth-of-light/
